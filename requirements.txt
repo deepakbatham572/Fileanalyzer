@@ -6,3 +6,7 @@ tiktoken
 streamlit
 tabulate
 python-dotenv
+python-pptx
+python-docx
+PyPDF2
+pandas
