@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_experimental
+huggingface_hub
+tiktoken
+streamlit
+tabulate
+python-dotenv
